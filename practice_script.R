@@ -7,8 +7,14 @@
 # working on your own forked repository and then pushing those
 # changes to the upstream (owner's) repository.
 
+# Please add your info to the following lists -
+
 # My favorite food is:
 
 # mashed potatoes
+
+# My favorite board game is:
+
+# Sushi Go! Party
 
 # End of script.
