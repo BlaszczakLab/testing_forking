@@ -13,9 +13,9 @@
 
 # pickles
 
-# My favorite board game is:
+# My favorite movie is:
 
-# Sushi Go! Party
+# What We Do In The Shadows
 
 # My favorite animal is:
 
