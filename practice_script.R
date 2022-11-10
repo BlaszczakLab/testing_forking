@@ -11,10 +11,14 @@
 
 # My favorite food is:
 
-# mashed potatoes
+# pickles
 
 # My favorite board game is:
 
 # Sushi Go! Party
+
+# My favorite animal is:
+
+# sea otter
 
 # End of script.
