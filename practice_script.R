@@ -9,6 +9,6 @@
 
 # My favorite food is:
 
-
+# mashed potatoes
 
 # End of script.
