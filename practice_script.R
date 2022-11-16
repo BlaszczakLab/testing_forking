@@ -14,17 +14,20 @@
 # pickles
 # creme brulee
 # indian food (all)
+# curry
 
 # My favorite MOVIE is:
 
 # What We Do In The Shadows
 # Little Women
 # the life aquatic
+# princess and frog
 
 # My favorite ANIMAL is:
 
 # sea otter
 # manatee
 # not snake
+#llama
 
 # End of script.
