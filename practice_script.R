@@ -13,15 +13,18 @@
 
 # pickles
 # creme brulee
+# indian food (all)
 
 # My favorite MOVIE is:
 
 # What We Do In The Shadows
 # Little Women
+# the life aquatic
 
 # My favorite ANIMAL is:
 
 # sea otter
 # manatee
+# not snake
 
 # End of script.
