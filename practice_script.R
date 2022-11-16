@@ -22,6 +22,7 @@
 # Little Women
 # the life aquatic
 # princess and frog
+# Lost in Translation
 
 # My favorite ANIMAL is:
 
@@ -29,5 +30,6 @@
 # manatee
 # not snake
 #llama
+# squirrel
 
 # End of script.
