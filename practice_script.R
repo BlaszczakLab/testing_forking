@@ -12,13 +12,16 @@
 # My favorite FOOD is:
 
 # pickles
+# creme brulee
 
 # My favorite MOVIE is:
 
 # What We Do In The Shadows
+# Little Women
 
 # My favorite ANIMAL is:
 
 # sea otter
+# manatee
 
 # End of script.
